@@ -21,7 +21,7 @@ body{
     flex-basis: calc(33% - 6rem);
 }
 .cartao__conteudo{
-    text-aling: center;
+    text-align: center;
     background-color: var(--card-front-color);
     height: 100%;
 }
