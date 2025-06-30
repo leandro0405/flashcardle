@@ -15,4 +15,12 @@ cartao.innerHTML = `
 </div>
 `
 container.appendChild(cartao)
+
+let respostaEstaVisivel = false;
+function viracartao(){
+respostaEstaVisivel = !respostaEstavisivel;
+cartao.classList.toggle('active', respostaEstaVisivel)
+}
+cartao.addEventListener("click", viracartao)
+container.appendChild(cartao)
 }
