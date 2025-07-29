@@ -1,17 +1,17 @@
 criaCartao(
-    'Programação',
-    'O que é Javascript',
-    'O javascript é uma linguagem de progamação'
+    'Rio',
+    'Qual é o rio mais sagrado para os hindus na Índia?',
+    'O rio Ganges.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual é a capital do Paraná',
-    'A capital do Paraná é Curitiva'
+    'Estrutura',
+    'Qual famoso monumento indiano é um mausoléu de mármore branco construído no século XVII?',
+    'O Taj Mahal.'
 )
 
 criaCartao(
-    'Progamação',
-    'O que é python?',
-    'O Python é uma linguagem de progamação'
+    'Recorde',
+    'Qual o recorde de pessoas em uma única motocicleta?',
+    'O recorde é de uma família de indianos com 38 pessoas, elas andaram 1,5 km assim'
 )
